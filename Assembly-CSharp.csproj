@@ -67,21 +67,18 @@
     <Compile Include="Assets\InstructorFiles\Scripts\Managers\ScreenFadeMgr.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\UI\GameMenus.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\Managers\CameraMgr.cs" />
-    <Compile Include="Assets\Resources\PlayerMgr.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\Managers\InputMgr.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\Managers\GameMgr.cs" />
     <Compile Include="Assets\_1233_StudentWork\scripts\PlayerSpawnPoint.cs" />
-    <Compile Include="Assets\Resources\LevelMgr.cs" />
     <Compile Include="Assets\_1233_StudentWork\scripts\PlayerAudioHandler.cs" />
-    <Compile Include="Assets\JumpTrigger.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\Managers\UIMgr.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\Tests\TestLoadGameOver.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\Managers\SceneMgr.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\UI\GameUI.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\UI\MenuBase.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\Gameplay\GameLoopManager.cs" />
-    <Compile Include="Assets\Resources\GameStarter.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\UI\ExampleMenus\SplashMenu.cs" />
+    <Compile Include="Assets\PlayerMgr.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\BootloaderMgr.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\UI\MainMenu.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\Save\SavedValues.cs" />
@@ -91,7 +88,6 @@
     <Compile Include="Assets\InstructorFiles\Scripts\UI\ButtonSounds.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\UI\Settings.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\UI\GameOver.cs" />
-    <Compile Include="Assets\InstructorFiles\Scripts\RuntimeBootStraploader.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\Save\SaveUtil.cs" />
     <Compile Include="Assets\InstructorFiles\Scripts\Util\Singleton.cs" />
   </ItemGroup>
